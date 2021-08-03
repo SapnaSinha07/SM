@@ -1,2 +1,7 @@
 # SM
 Assignments of SM lab
+
+Name -- Sapna Sinha <br />
+Roll -- 1/18/FET/BCS/079 <br />
+
+
